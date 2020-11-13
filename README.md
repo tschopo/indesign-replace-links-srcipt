@@ -1,0 +1,1 @@
+# indesign-replace-links-srcipt
